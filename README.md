@@ -1,7 +1,9 @@
 <a href="https://github.com/isuruwa"><img title="addon" src="https://img.shields.io/badge/isuruwa-THUNTER-brightgreen?style=for-the-badge&logo=appveyor"></a>
 <br>
 <p align="center">
-<img src="https://www.torproject.org/static/images/tor-project-logo-onions.png">
+  
+![tor](https://user-images.githubusercontent.com/72663288/126537706-ae618baf-9420-44b7-b1dd-e29bfa741de8.png)
+
 <p align="center">
 <a href="https://github.com/isuruwa"><img title="addon" src="https://img.shields.io/badge/isuruwa-OnionHoster-blueviolet?style=for-the-badge&logo=appveyor"></a>
 <p align="center">
