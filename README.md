@@ -22,6 +22,10 @@
 * Ip Address Based SOCKS Allowed.
 * More Features . Explore It By Your Own .
 
+## If You Want To Host Your Own Site ( index.html) - Coming Soon ... <img src="https://img.icons8.com/nolan/64/web-design.png"/>
+
+<br>
+
 ## Installtion : <img src="https://img.icons8.com/cute-clipart/50/000000/double-tick.png">
 
 * `apt update`
