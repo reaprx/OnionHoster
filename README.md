@@ -11,7 +11,7 @@
 </p>
 <br>
 
-#  OnionHoster is a Bash Based Script  To Host Your Own WebPage In Dark Web  In Termux. <img src="https://img.icons8.com/color-glass/48/000000/web-design.png"/>
+#  OnionHoster is a Bash Based Script  To Host A Hidden WebPage On Tor In Termux. <img src="https://img.icons8.com/color-glass/48/000000/web-design.png"/>
 
 ## Features : <img src="https://img.icons8.com/cute-clipart/50/000000/double-tick.png">
 
