@@ -57,4 +57,4 @@
 ![Screenshot_20210721-234034_Termux](https://user-images.githubusercontent.com/72663288/126538950-8aef3859-d0f6-4a72-af58-ae616ddbb6cf.jpg)
 
 
-# CREDITS - HOSTONION
+# Some Webpage Credits - Github
