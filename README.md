@@ -62,8 +62,13 @@ apt update; apt upgrade; apt install git -y; apt install ruby -y; gem install lo
 ![Screenshot_20210721-234031_Termux](https://user-images.githubusercontent.com/72663288/126538937-7b90e409-1275-41eb-b265-65aefa3825ee.jpg)
 
 ![Screenshot_20210721-234034_Termux](https://user-images.githubusercontent.com/72663288/126538950-8aef3859-d0f6-4a72-af58-ae616ddbb6cf.jpg)
+  
+![Capture](https://user-images.githubusercontent.com/72663288/126601715-2f3be9b1-9c8f-4cfc-8f4d-7d333f047b11.PNG)
 
-![torssre](https://user-images.githubusercontent.com/72663288/126539971-f5e03c76-ddd8-45fb-b782-a76a4ecb1378.PNG)
+![2](https://user-images.githubusercontent.com/72663288/126601736-fa8d3101-056c-4a37-9a73-7a1c3ca7c1fb.PNG)
+
+![3](https://user-images.githubusercontent.com/72663288/126601743-93985dc5-e85a-48e2-968b-32aeb2682a7d.PNG)
+
   
 
 
