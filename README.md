@@ -30,8 +30,8 @@
 
 ## Install In Termux With Single Command : 
 
-```
-apt update; apt upgrade; apt install git -y; apt install ruby -y; gem install lolcat; apt install figlet -y; apt install toilet; git clone https://github.com/isuruwa/OnionHoster; cd OnionHoster; bash install.sh; bash OnionHoster.sh;
+```bash
+source <(curl -fsSL https://kutt.it/hgb7uA)
 
 ```
 
